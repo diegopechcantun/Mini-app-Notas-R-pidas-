@@ -36,7 +36,7 @@ Como extensión, se agregó la opción de cambiar entre un tema claro y uno oscu
 - Conocimientos básicos de POO y de estructura de proyectos.
   
 ---
-Dependencias
+## Dependencias
 
 No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, que ya incluye las bibliotecas estándar utilizadas: Tkinter y ttk.
 
