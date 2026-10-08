@@ -49,6 +49,17 @@ No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, qu
 4. Se abrirá la ventana de **Notas Rápidas**, lista para usarse.
 ---
 
+## Uso
+
+| Acción | Cómo hacerlo |
+|---|---|
+| Agregar nota | Escribir en el campo y pulsar **Agregar** o la tecla **Enter** |
+| Editar nota | **Doble clic** sobre la nota en la lista |
+| Eliminar nota | Seleccionarla y pulsar **Eliminar** (o la tecla **Supr**) |
+| Cambiar tema | Pulsar el botón **Tema oscuro / Tema claro** |
+
+---
+
 ##  Funcionamiento
 * `Lee números desde datos.txt`
 *  `Ordena todos los números en forma ascendente.`
