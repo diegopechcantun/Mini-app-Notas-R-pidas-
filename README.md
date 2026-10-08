@@ -22,13 +22,18 @@ El propósito es practicar la programación orientada a eventos: la aplicación 
 Como extensión, se agregó la opción de cambiar entre un tema claro y uno oscuro desde un botón de la propia interfaz.
 
 ---
-
-
 ## Objetivos
 
 - Construir una ventana con controles básicos (botón, campo de texto, selectores).
 - Identificar y manejar `ActionEvent`, `KeyEvent` y `MouseEvent` (o equivalentes en Tkinter).
 - Encapsular la lógica de eventos siguiendo buenas prácticas (controladores/listeners).
+
+---
+## Insumos y requisitos
+
+- **Python:** 3.10 o superior, con Tkinter incluido (viene con el instalador oficial de Python).
+- (Opcional) un entorno virtual `venv`.
+- Conocimientos básicos de POO y de estructura de proyectos.
 
 ---
 ##  Funcionamiento
