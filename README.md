@@ -74,7 +74,7 @@ No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, qu
 
 ## Extensión: Tema claro/oscuro
 
-Los colores de cada tema están definidos en el diccionario TEMAS. El método `aplicar_tema()` los aplica con `ttk.Style` (tema base `clam`) a los widgets `ttk` y de forma directa al `Listbox`, que no tiene versión `ttk`. El botón de tema alterna entre ambos y muestra el nombre del tema al que se cambiará.
+El programa inicia con el tema claro, el botón de tema alterna entre claro y oscuro, asi que, el método `cambiar_tema()` invierte la variable `tema_oscuro` y `aplicar_tema()` cambia los colores de la ventana, el campo de texto, los botones, la etiqueta y la lista de notas. El texto del botón indica el tema al que se cambiará con el siguiente clic.
 
 ---
 
