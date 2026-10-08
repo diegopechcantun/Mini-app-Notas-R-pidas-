@@ -59,7 +59,18 @@ No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, qu
 | Cambiar tema | Pulsa el botón **Tema claro o Tema oscuro** |
 
 ---
+## Eventos manejados
 
+| Tipo | Evento | Widget | Manejador | Resultado |
+|---|---|---|---|---|
+| Botón (ActionEvent) | `command=` | Botón *Agregar* | `agregar()` | Agrega la nota a la lista |
+| Botón (ActionEvent) | `command=` | Botón *Eliminar* | `eliminar()` | Elimina la nota seleccionada |
+| Botón (ActionEvent) | `command=` | Botón *Tema* | `cambiar_tema()` | Alterna entre tema claro y oscuro |
+| Teclado (KeyEvent) | `<Return>` | Campo de texto | `agregar()` | Agrega la nota con Enter |
+| Teclado (KeyEvent) | `<Delete>` | Lista | `eliminar()` | Elimina la nota seleccionada |
+| Ratón (MouseEvent) | `<Double-Button-1>` | Lista | `editar_item()` | Abre diálogo para editar la nota |
+
+---
 ##  Funcionamiento
 * `Lee números desde datos.txt`
 *  `Ordena todos los números en forma ascendente.`
