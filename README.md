@@ -34,6 +34,11 @@ Como extensión, se agregó la opción de cambiar entre un tema claro y uno oscu
 - **Python:** 3.10 o superior, con Tkinter incluido (viene con el instalador oficial de Python).
 - (Opcional) un entorno virtual `venv`.
 - Conocimientos básicos de POO y de estructura de proyectos.
+  
+---
+Dependencias
+
+No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, que ya incluye las bibliotecas estándar utilizadas: Tkinter y ttk.
 
 ---
 ##  Funcionamiento
