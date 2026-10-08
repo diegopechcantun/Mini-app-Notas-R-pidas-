@@ -78,20 +78,6 @@ Los colores de cada tema están definidos en el diccionario TEMAS. El método `a
 
 ---
 
-## Capturas de pantalla
-
-> Reemplazar con las capturas tomadas al ejecutar la aplicación.
-
-| Tema claro | Tema oscuro |
-|---|---|
-| ![Tema claro](capturas/01_tema_claro.png) | ![Tema oscuro](capturas/02_tema_oscuro.png) |
-
-| Edición de una nota | Eliminar sin selección |
-|---|---|
-| ![Edición](capturas/03_edicion.png) | ![Eliminar](capturas/04_eliminar.png) |
-
----
-
 ## Entregables
 
 - Código fuente funcional (Java y/o Python).
