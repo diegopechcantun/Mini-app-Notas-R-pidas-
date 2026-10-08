@@ -54,7 +54,7 @@ No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, qu
 | Acción | Cómo hacerlo |
 |---|---|
 | Agregar nota | Escribe en el campo y pulsa **Agregar** o la tecla **Enter** |
-| Editar nota | **Doble clic** sobre la nota en la lista |
+| Editar nota | Doble clic sobre la nota en la lista |
 | Eliminar nota | Selecciónala y pulsa **Eliminar** |
 | Cambiar tema | Pulsa el botón **Tema claro o Tema oscuro** |
 
