@@ -49,7 +49,7 @@ No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, qu
 4. Se abrirá la ventana de **Notas Rápidas**, lista para usarse.
 ---
 
-## Uso
+## Funcion
 
 | Acción | Cómo hacerlo |
 |---|---|
@@ -68,7 +68,7 @@ No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, qu
 | Botón (ActionEvent) | `command=` | Botón *Tema* | `cambiar_tema()` | Alterna entre tema claro y oscuro |
 | Teclado (KeyEvent) | `<Return>` | Campo de texto | `agregar()` | Agrega la nota con Enter |
 | Teclado (KeyEvent) | `<Delete>` | Lista | `eliminar()` | Elimina la nota seleccionada |
-| Ratón (MouseEvent) | `<Double-Button-1>` | Lista | `editar_item()` | Abre diálogo para editar la nota |
+| Ratón (MouseEvent) | `<Double-Button-1>` | Lista | `editar_item()` | Abre el diálogo para editar la nota |
 
 ---
 
@@ -92,19 +92,9 @@ Los colores de cada tema están definidos en el diccionario TEMAS. El método `a
 
 ---
 
-## Capturas de pantalla
+## Entregables
 
 - Código fuente funcional (Java y/o Python).
 - Capturas de pantalla en ejecución.
 - README
-
----
-
-##  Funcionamiento
-* `Lee números desde datos.txt`
-*  `Ordena todos los números en forma ascendente.`
-*  `Escribe los números ordenados en un archivo nuevo llamado datos_ordenados.txt`
-*  `Crea una tabla hash de 100,003 cubetas. Cada número se almacena con su índice original usando la función: posición = número % 100003.`
-* `El usuario ingresa un número o ingresa varios  números y el programa lo busca en la tabla hash, retornando todas las posiciones donde aparece.`
----
 
