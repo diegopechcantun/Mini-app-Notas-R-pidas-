@@ -71,6 +71,11 @@ No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, qu
 | Ratón (MouseEvent) | `<Double-Button-1>` | Lista | `editar_item()` | Abre diálogo para editar la nota |
 
 ---
+## Extensión: tema claro/oscuro
+
+Los colores de cada tema están definidos en el diccionario `TEMAS`. El método `aplicar_tema()` los aplica con `ttk.Style` (tema base `clam`) a los widgets `ttk` y de forma directa al `Listbox`, que no tiene versión `ttk`. El botón de tema alterna entre ambos y muestra el nombre del tema al que se cambiará.
+---
+
 ##  Funcionamiento
 * `Lee números desde datos.txt`
 *  `Ordena todos los números en forma ascendente.`
