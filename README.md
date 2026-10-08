@@ -1,17 +1,16 @@
 #  Mini-app "Notas Rápidas" — Práctica 203: GUI y Manejo de Eventos
 ---
-## Integrantes
-
-- **Balam Castillo Pedro**
-- **Pech Cantun Diego**
-- **Loreto Huerta Filiberto**
----
-
 ## Practica Académica
 - Institución: Instituto Tecnológico de Mérida
 - Materia: Tópicos Avanzados de Programación
 - Carrera: Ingeniería en Sistemas Computacionales
 
+---
+## Integrantes
+
+- **Balam Castillo Pedro**
+- **Pech Cantun Diego**
+- **Loreto Huerta Filiberto**
 ---
 
 ## Descripción  
