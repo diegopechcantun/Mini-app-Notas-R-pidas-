@@ -44,8 +44,8 @@ No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, qu
 ## Cómo ejecutar
 
 1. Descargar o copiar el archivo `notas_rapidas.py` en una carpeta de tu computadora.
-2. Abrir el archivo con un editor o IDE que soporte Python (por ejemplo IDLE, VS Code o PyCharm).
-3. Ejecutar el programa con el botón **Run** (o **Ejecutar**) del editor; en IDLE, con la tecla **F5**.
+2. Abrir el archivo con Visual studio Code ya que soporta Python.
+3. Ejecutar el programa con el botón **Run** (o **Ejecutar**).
 4. Se abrirá la ventana de **Notas Rápidas**, lista para usarse.
 ---
 
