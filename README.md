@@ -67,7 +67,6 @@ No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, qu
 | Botón (ActionEvent) | `command=` | Botón *Eliminar* | `eliminar()` | Elimina la nota seleccionada |
 | Botón (ActionEvent) | `command=` | Botón *Tema* | `cambiar_tema()` | Alterna entre tema claro y oscuro |
 | Teclado (KeyEvent) | `<Return>` | Campo de texto | `agregar()` | Agrega la nota con Enter |
-| Teclado (KeyEvent) | `<Delete>` | Lista | `eliminar()` | Elimina la nota seleccionada |
 | Ratón (MouseEvent) | `<Double-Button-1>` | Lista | `editar_item()` | Abre el diálogo para editar la nota |
 
 ---
