@@ -7,7 +7,7 @@
 - **Loreto Huerta Filiberto**
 ---
 
-## Proyecto Académico
+## Practica Académica
 - Institución: Instituto Tecnológico de Mérida
 - Materia: Tópicos Avanzados de Programación
 - Carrera: Ingeniería en Sistemas Computacionales
