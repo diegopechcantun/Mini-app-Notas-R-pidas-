@@ -41,6 +41,14 @@ Como extensión, se agregó la opción de cambiar entre un tema claro y uno oscu
 No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, que ya incluye las bibliotecas estándar utilizadas: Tkinter y ttk.
 
 ---
+## Cómo ejecutar
+
+1. Descargar o copiar el archivo `notas_rapidas.py` en una carpeta de tu computadora.
+2. Abrir el archivo con un editor o IDE que soporte Python (por ejemplo IDLE, VS Code o PyCharm).
+3. Ejecutar el programa con el botón **Run** (o **Ejecutar**) del editor; en IDLE, con la tecla **F5**.
+4. Se abrirá la ventana de **Notas Rápidas**, lista para usarse.
+---
+
 ##  Funcionamiento
 * `Lee números desde datos.txt`
 *  `Ordena todos los números en forma ascendente.`
