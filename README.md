@@ -1,4 +1,4 @@
-# Búsqueda por Funciones Hash
+# Notas Rápidas — Práctica 203: GUI y Manejo de Eventos
 ---
 ## Integrantes
 
@@ -9,13 +9,17 @@
 
 ## Proyecto Académico
 - Institución: Instituto Tecnológico de Mérida
-- Materia: Estructura de Datos
+- Materia: Tópicos Avanzados de Programación
 - Carrera: Ingeniería en Sistemas Computacionales
 
 ---
 
 ## Descripción  
-El proyecto consiste en implementar en Python un sistema que lea un archivo de texto con 50,000 números, los ordene y permita realizar búsquedas de números utilizando el método de búsqueda Hash, además de medir el tiempo que tarda cada proceso.
+En esta práctica se desarrolla una aplicación de escritorio con interfaz gráfica en Python, usando Tkinter y su módulo ttk. La aplicación, llamada Notas Rápidas, permite al usuario escribir notas, agregarlas a una lista, editarlas y eliminarlas, mientras un contador muestra cuántas notas hay.
+
+El propósito es practicar la programación orientada a eventos: la aplicación reacciona a las acciones del usuario, como hacer clic en un botón, presionar una tecla o dar doble clic sobre un elemento de la lista. Para ello se enlazan estos eventos con métodos de una clase que concentra la lógica de la ventana, siguiendo buenas prácticas de nombres, organización y comentarios.
+
+Como extensión, se agregó la opción de cambiar entre un tema claro y uno oscuro desde un botón de la propia interfaz.
 
 ---
 
