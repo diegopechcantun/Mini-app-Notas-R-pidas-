@@ -91,6 +91,15 @@ Los colores de cada tema están definidos en el diccionario TEMAS. El método `a
 | ![Edición](capturas/03_edicion.png) | ![Eliminar](capturas/04_eliminar.png) |
 
 ---
+
+## Capturas de pantalla
+
+- Código fuente funcional (Java y/o Python).
+- Capturas de pantalla en ejecución.
+- README
+
+---
+
 ##  Funcionamiento
 * `Lee números desde datos.txt`
 *  `Ordena todos los números en forma ascendente.`
