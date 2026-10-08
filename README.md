@@ -14,7 +14,7 @@
 ---
 
 ## Descripción  
-En esta práctica se desarrolla una aplicación de escritorio con interfaz gráfica en Python, usando Tkinter y su módulo ttk. La aplicación, llamada Notas Rápidas, permite al usuario escribir notas, agregarlas a una lista, editarlas y eliminarlas, mientras un contador muestra cuántas notas hay.
+En esta práctica se desarrolla una aplicación de escritorio con interfaz gráfica en Python, usando la biblioteca Tkinter. La aplicación, llamada Notas Rápidas, permite al usuario escribir notas, agregarlas a una lista, editarlas y eliminarlas, mientras un contador muestra cuántas notas hay.
 
 El propósito es practicar la programación orientada a eventos: la aplicación reacciona a las acciones del usuario, como hacer clic en un botón, presionar una tecla o dar doble clic sobre un elemento de la lista. Para ello se enlazan estos eventos con métodos de una clase que concentra la lógica de la ventana, siguiendo buenas prácticas de nombres, organización y comentarios.
 
