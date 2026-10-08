@@ -24,12 +24,11 @@ Como extensión, se agregó la opción de cambiar entre un tema claro y uno oscu
 ---
 
 
-## ¿Qué es?
+## Objetivos
 
-La búsqueda hash es un algoritmo de búsqueda que utiliza una función hash para mapear claves a posiciones en una tabla hash. Esta técnica permite un acceso rápido y directo a los elementos almacenados, basándose en sus claves únicas.
-
-Una tabla hash es una estructura de datos que se utiliza para almacenar información en forma de pares clave–valor. Su funcionamiento se basa en una función hash, la cual toma una clave y la transforma en un índice dentro de un arreglo. En esa posición se guarda el valor correspondiente.
-
+- Construir una ventana con controles básicos (botón, campo de texto, selectores).
+- Identificar y manejar `ActionEvent`, `KeyEvent` y `MouseEvent` (o equivalentes en Tkinter).
+- Encapsular la lógica de eventos siguiendo buenas prácticas (controladores/listeners).
 
 ---
 ##  Funcionamiento
