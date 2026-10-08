@@ -1,4 +1,4 @@
-# Notas Rápidas — Práctica 203: GUI y Manejo de Eventos
+#  Mini-app "Notas Rápidas" — Práctica 203: GUI y Manejo de Eventos
 ---
 ## Integrantes
 
