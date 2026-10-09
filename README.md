@@ -71,8 +71,9 @@ No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, qu
 ---
 
 ## Extensión: Tema claro/oscuro
----
+
 El programa inicia con el tema claro, el botón de tema alterna entre claro y oscuro, así que el método cambiar_tema() invierte la variable tema_oscuro y aplicar_tema() cambia los colores de la ventana, el campo de texto, los botones, la etiqueta y la lista de notas. El texto del botón indica el tema al que se cambiará con el siguiente clic.
+
 ---
 
 ## Entregables
