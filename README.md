@@ -42,13 +42,13 @@ No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, qu
 ---
 ## Cómo ejecutar
 
-1. Descargar o copiar el archivo `notas_rapidas.py` en una carpeta de tu computadora.
-2. Abrir el archivo con Visual studio Code ya que soporta Python.
+1. Descargar o copiar el archivo `app.py` (carpeta notas_tk) en una carpeta de tu computadora.
+2. Abrir el archivo con Visual Studio Code ya que soporta Python.
 3. Ejecutar el programa con el botón **Run** (o **Ejecutar**).
 4. Se abrirá la ventana de **Notas Rápidas**, lista para usarse.
 ---
 
-## Funcion
+## Funciones
 
 | Acción | Cómo hacerlo |
 |---|---|
@@ -71,14 +71,12 @@ No requiere instalar paquetes externos. Solo necesita Python 3.10 o superior, qu
 ---
 
 ## Extensión: Tema claro/oscuro
-
-El programa inicia con el tema claro, el botón de tema alterna entre claro y oscuro, asi que, el método `cambiar_tema()` invierte la variable `tema_oscuro` y `aplicar_tema()` cambia los colores de la ventana, el campo de texto, los botones, la etiqueta y la lista de notas. El texto del botón indica el tema al que se cambiará con el siguiente clic.
-
+El programa inicia con el tema claro, el botón de tema alterna entre claro y oscuro, así que el método cambiar_tema() invierte la variable tema_oscuro y aplicar_tema() cambia los colores de la ventana, el campo de texto, los botones, la etiqueta y la lista de notas. El texto del botón indica el tema al que se cambiará con el siguiente clic.
 ---
 
 ## Entregables
 
-- Código fuente funcional (Java y/o Python).
+- Código fuente funcional en Python (notas_tk/app.py).
 - Capturas de pantalla en ejecución.
 - README
 
